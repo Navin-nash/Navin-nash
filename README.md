@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Navin-nash
 - 👀 I’m interested in ... Artificial Intelligence and Cloud Computing.
 - 🌱 I’m currently learning ...B.tech Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...new projects and innovative ideas
 - 📫 How to reach me ...reach me through my email 1923014@saec.ac.in
 
 <!---
