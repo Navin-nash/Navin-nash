@@ -67,4 +67,5 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with exper
 
 ✨ **"Empowered by technology, driven by collaboration."**  
 Connect with me to work on innovative solutions! 😊
-![Reach out to me at](govindannavinraj@gmail.com)
+
+[Reach out to me](govindannavinraj@gmail.com)
