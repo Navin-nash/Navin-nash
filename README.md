@@ -1,10 +1,6 @@
-Here’s a professional and visually appealing **GitHub README** template tailored to showcase your technical skills, teamwork, and collaborative abilities:
-
----
-
 # Hi there, I'm **Navin Raj Govindan** 👋  
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** with expertise in **Information Technology** and a knack for building solutions that make an impact. My journey revolves around creating efficient, scalable, and innovative solutions, both as an individual and as part of amazing teams.  
+Welcome to my GitHub profile! I'm a passionate **Software Developer** with expertise in **Web Application Devlopment**, **Automation**, **AI Integration** and a knack for building solutions that make an impact. My journey revolves around creating efficient, scalable, and innovative solutions, both as an individual and as part of amazing teams.  
 
 ---
 
