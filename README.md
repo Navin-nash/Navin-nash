@@ -36,7 +36,7 @@ Contact     govindannavinraj@gmail.com
 
 ### Products I actively own and ship
 
-**[genDOC.ai](https://gendoc.ai)** — AI Document Automation Platform
+**[genDOC](https://gendoc.ai)** — AI Document Automation Platform
 
 > Automates creation, review, and completion of complex structured business documents — grant proposals, government applications, corporate templates. Serves regulated workflows where output accuracy and format compliance are non-negotiable.
 >
